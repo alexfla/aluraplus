@@ -30,7 +30,7 @@ body {
     align-items: center;
     text-align: center;
 }
-.container {git
+.container {
     height: 100vh;
     display: grid;
     grid-template-columns: 30% 33%;
